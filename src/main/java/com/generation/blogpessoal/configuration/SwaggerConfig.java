@@ -23,7 +23,7 @@ public class SwaggerConfig {
 					.description("Blog Pessoal - Edgard Henrique")
 					.version("v0.0.1")
 				.license(new License()
-					.name("Edgard Henrique")
+					.name("Generation Brasil")
 					.url("https://brazil.generation.org/"))
 				.contact(new Contact()
 					.name("Edgard Henrique")
